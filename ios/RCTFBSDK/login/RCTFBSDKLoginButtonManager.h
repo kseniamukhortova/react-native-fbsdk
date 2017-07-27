@@ -18,7 +18,7 @@
 
 #import <FBSDKLoginKit/FBSDKLoginKit.h>
 
-#import <React/RCTViewManager.h>
+#import "RCTViewManager.h"
 
 @interface RCTFBSDKLoginButtonManager : RCTViewManager <FBSDKLoginButtonDelegate>
 

@@ -18,8 +18,8 @@
 
 #import "RCTFBSDKAppInviteDialog.h"
 
-#import <React/RCTConvert.h>
-#import <React/RCTUtils.h>
+#import "RCTConvert.h"
+#import "RCTUtils.h"
 
 @implementation RCTConvert (FBSDKAppInviteDialog)
 
