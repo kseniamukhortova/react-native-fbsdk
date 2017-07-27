@@ -18,7 +18,7 @@
 
 #import "RCTFBSDKLoginManager.h"
 
-#import <React/RCTUtils.h>
+#import "RCTUtils.h"
 
 #import "RCTConvert+FBSDKLogin.h"
 
