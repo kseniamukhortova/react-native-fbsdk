@@ -68,16 +68,17 @@ module.exports = {
   },
 
   //native components
-  get LikeView() {
-    return require('./FBLikeView');
-  },
-  get LoginButton() {
-    return require('./FBLoginButton');
-  },
-  get SendButton() {
-    return require('./FBSendButton');
-  },
-  get ShareButton() {
-    return require('./FBShareButton');
-  },
+  // get LikeView() {
+  //   return require('./FBLikeView');
+  // },
+  // get LoginButton() {
+  //   return require('./FBLoginButton');
+  // },
+  // get SendButton() {
+  //   return require('./FBSendButton');
+  // },
+  // get ShareButton() {
+  //   return require('./FBShareButton');
+  // },
+  //Fix LikeView has no propType for native prop RCTFBLikeView.onLayout
 };
